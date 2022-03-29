@@ -58,7 +58,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-
-
-# 可以在＋剩幾命的示意圖＆分數或paddle加長縮短
