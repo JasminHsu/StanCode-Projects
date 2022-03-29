@@ -9,26 +9,17 @@ Welcome to watch my [DEMO VIDEOS](https://drive.google.com/drive/folders/1ZixGjM
 
 # Project Source Codes
 
-
-* Hangman Game
-  * python semantics & syntax
-* Weather Master
-  * python semantics & syntax
-* My photoshop & My photoshop_advanced
-  * image processing
-* Bouncing Ball
-  * animation & game designing
-* Breakout Game
-  * animation & game designing
+* Anagram
+  * recursive functions
 * Baby Name Searching System
   * data structure
 * Boggle Game Solver
   * recursive functions
-* Sierpinski
-  * recursive functions
-* Anagram
-  * recursive functions
+* Breakout Game
+  * animation & game designing
 * Photoshop
   * image processing
 * Remove Pedestrian
   * image processing
+* Sierpinski
+  * recursive functions
