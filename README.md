@@ -18,7 +18,7 @@ Welcome to watch my [DEMO VIDEOS](https://drive.google.com/drive/folders/1ZixGjM
   * image processing
 * Bouncing Ball
   * animation & game designing
-* Name Popularity Searching System
+* Baby Name Searching System
   * data structure
 * Boggle Game Solver
   * recursive functions
