@@ -9,17 +9,19 @@ Welcome to watch my [DEMO VIDEOS](https://drive.google.com/drive/folders/1ZixGjM
 
 # Project Source Codes
 
-* Anagram
+* [Anagram](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/anagram/anagram.py)
   * recursive functions
-* Baby Name Searching System
+* [Baby Name Searching System](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/baby_name_searching_system/babygraphics.py)
   * data structure
-* Boggle Game Solver
+* [Boggle Game Solver](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/boggle_game_solver/boggle.py)
   * recursive functions
-* Breakout Game
+* [Bouncing Ball](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/bouncing_ball.py)
   * animation & game designing
-* Photoshop
+* [Breakout Game](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/break_out/breakoutgraphics.py)
+  * animation & game designing
+* [Photoshop](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/photoshop/best_photoshop_award.py)
   * image processing
-* Remove Pedestrian
+* [Remove Pedestrian](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/remove_pedestrian/stanCodoshop.py)
   * image processing
-* Sierpinski
+* [Sierpinski](https://github.com/JasminHsu/StanCode-Projects/blob/main/stanCode-projects/sierpinski.py)
   * recursive functions
